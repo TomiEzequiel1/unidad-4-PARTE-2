@@ -1,0 +1,68 @@
+#titulo {
+    color:brown;
+    
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #0b0909;
+background: radial-gradient(circle farthest-corner at center center, #0b0909 0%, #221414 80%);
+background: -webkit-radial-gradient(circle farthest-corner at center center, #0b0909 0%, #221414 80%);
+background: -moz-radial-gradient(circle farthest-corner at center center, #0b0909 0%, #221414 80%);
+
+}
+
+p {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+ol {
+    background: #b43131;
+    background: radial-gradient(circle farthest-corner at center center, #b43131 0%, #221414 170%);
+    background: -webkit-radial-gradient(circle farthest-corner at center center, #b43131 0%, #221414 170%);
+    background: -moz-radial-gradient(circle farthest-corner at center center, #b43131 0%, #221414 170%);
+  width: 200px;
+  padding: 20px;
+  box-sizing: border-box;
+  border: 5px solid rgb(43, 40, 40);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: 200px;
+  text-decoration: underline;
+  line-height: 25px;
+  border-radius: 22px 28px 83px 83px;
+-webkit-border-radius: 22px 28px 83px 83px;
+-moz-border-radius: 22px 28px 83px 83px;
+border: 200px doble #1d1b1b;
+
+
+}
+
+h2 {
+    color: brown;
+    text-align: center;
+    background: #0b0909;
+background: radial-gradient(circle farthest-corner at center center, #0b0909 0%, #221414 80%);
+background: -webkit-radial-gradient(circle farthest-corner at center center, #0b0909 0%, #221414 80%);
+background: -moz-radial-gradient(circle farthest-corner at center center, #0b0909 0%, #221414 80%);
+}
+
+h3 {
+    color: brown;
+    border: 5px solid black;
+    width: 300px;
+    background: #0b0909;
+background: radial-gradient(circle farthest-corner at center center, #0b0909 0%, #221414 80%);
+background: -webkit-radial-gradient(circle farthest-corner at center center, #0b0909 0%, #221414 80%);
+background: -moz-radial-gradient(circle farthest-corner at center center, #0b0909 0%, #221414 80%);
+
+}
+
+label {
+    font-weight: bold;
+    
+}
+ 
+    
+
+

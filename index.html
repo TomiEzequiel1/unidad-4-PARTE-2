@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    
+    <title>Crear Curriculum Vitae</title>
+    <link rel="stylesheet" href="Estilos.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+</head>
+<body>
+    <h1 id="titulo">Armar curriculum Vitae</h1>
+    <hr>
+    <p><span class="material-symbols-outlined">
+        emoji_objects
+        </span>Para tener una idea sobre los datos que poner presione <a href="https://zety.es/blog/ideas-curriculum" target="_blank" > aquí </a></p>
+    <h2>>Complete con sus datos lo siguiente:</h2>
+    <ol>
+        <li>Coloque una imagen</li>
+        <li>Complete lo correspondiente</li>
+        <li>Escriba algo sobre usted</li>
+    </ol>  
+    <h3 style="width: 400px;"> _Coloque una imagen suya como la siguiente:_</h3>
+<img src="img/retrato1.jpg" width="220" height="150" />
+<br> <br>
+    <form>
+        <label for="nombre">*Escriba su nombre completo y apellido:</label>
+        <input id="nombre" name="nombre" placeholder="Nombre completo y apellido"/>
+
+    <br>    
+    
+     <label for="domicilio"> *Escriba su domicilio:
+        <input id="domicilio" name="domicilio" placeholder="Domicilio"/>
+    
+     <h3> >*Seleccione segun corresponda:  </h3>
+       <h3>_¿Hace cuanto fue su ultimo trabajo?</h3>
+     
+        <label for="Actualmente tengo uno"> [Actualmente tengo uno </label>
+        <input type="radio" id="Actualmente tengo uno" name="Actualmente tengo uno">
+        <br> <br>
+        <label for="1 año">[1 año</label>
+        <input type="radio" id="1 año" name="1 año">
+        <br><br>       
+        <label for="3 anos"> [Hace 3 años </label>
+        <input type="radio" id="3 anos" name="3 anos ">
+        <br><br>
+        <label for="5 anos"> [Hace 5 años </label>
+        <input type="radio" id="5 anos" name="5 anos ">
+        <br><br>
+        <label for="Si no aparece tu tiempo escribalo aqui">[Si no aparece tu tiempo escribalo aqui:</label>
+        <input id="Si no aparece tu tiempo escribalo aqui" name="Si no aparece tu tiempo escribalo aqui" placeholder="Esribalo aqui">
+        
+    <h3 style="width: 400px"> >Ponga informacion sobre lo que usted brinda</h3> 
+    <textarea cols="50" rows="10" id="Escriba informacion sobre lo que usted brinda" name="Escriba informacion sobre lo que usted brinda" placeholder="Escriba informacion sobre lo que usted brinda"></textarea>
+    <input type="submit" />
+    </form>
+</body>
+</html> 
