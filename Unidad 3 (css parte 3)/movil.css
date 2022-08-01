@@ -1,0 +1,47 @@
+#contenedor {
+    width: 70%;
+    margin: 0;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    
+    background: #fc6;
+    float: left;
+    width: 100%; 
+    line-height: 30px ;
+    padding-bottom:  20px;
+    height: 100px;
+    
+
+}
+
+a {
+    
+    color: black;
+    
+}
+
+section {
+    margin: 0%;
+    float: left;
+    width: 93%;
+    border-style: solid;
+    border-width: 1px;
+    
+}
+
+aside {
+    float: left;
+    width: 93%;
+    background-color: rgb(187, 166, 134);
+}
+
+h1 {
+    padding-bottom: 10px;
+    height: 13px;
+}
