@@ -1,0 +1,41 @@
+.contenedor {
+    background-color: rgb(159, 231, 90);
+    padding-top: 20px;
+    width: 100%;
+    font-size: 50px;
+    color: aliceblue;
+    margin-bottom: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.colorbarra {
+    background-color: black; 
+    
+}
+
+.segundo {
+    padding-top: 5px;
+    color: aliceblue;
+    width: 0%;
+}
+
+.col {
+background-color: rgb(159, 231, 90);
+     color: black;
+    
+  
+}
+
+.columna2 {
+    background-color: black;
+}
+
+
+.contenedor2 {
+    background-color: black;
+    width: 292px;
+    color: aliceblue;
+    margin-top: 0px;
+}
+
